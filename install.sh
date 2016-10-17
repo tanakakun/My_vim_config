@@ -2,10 +2,10 @@
 
 #Remove old configure file
 rm ~/.vimrc
-rm ~/.vim/color/costum.vim
+rm ~/.vim/colors/costum.vim
 
 cp ./vimrc ~/.vimrc
 mkdir ~/.vim
-mkdir ~/.vim/color
+mkdir ~/.vim/colors
 
-cp ./vim/color/costum.vim ~/.vim/color/costum.vim
+cp ./vim/colors/costum.vim ~/.vim/colors/costum.vim
