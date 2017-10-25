@@ -17,7 +17,7 @@ au BufWrite /private/etc/pw.* set nowritebackup nobackup
 
 syntax on
 
-set expandtab
+" set expandtab
 set tabstop=4
 
 set softtabstop=4
