@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 
 #Remove old configure file
 rm ~/.vimrc
